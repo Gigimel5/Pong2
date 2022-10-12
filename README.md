@@ -1,2 +1,1 @@
-# Pong2
-bien mandado
+# Trex_Etapa_0
